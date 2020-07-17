@@ -19,6 +19,7 @@ code .
 ```
 
 ### `Baixe o pacote, extraia e substitua o conteúdo da pasta 'react-bootstrap' criada pelo 'npx create-react-app'`
+* por dropbox ou baixa aqui do github 
 
 ### `Execute os comandos a seguir no terminal`
 ```
